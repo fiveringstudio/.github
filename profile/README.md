@@ -18,7 +18,7 @@ Everything we make has pieces of us in it, our memories, our struggles, our sens
 ### Games & experiments
 small projects built for fun, learning, and creative growth.
 
-We’re not a studio chasing perfection we’re a group trying to make something real.
+We’re not a studio chasing perfection, we’re a group trying to make something real.
 
 
 ---
@@ -27,14 +27,14 @@ We’re not a studio chasing perfection we’re a group trying to make something
 
 ## Friends Till the End (FTtE)
 
-Our main series a surreal 2D/3D animated story about a young teenager who's birthday is coming up in a couple of months 
-him and his friends have fun journeys and make memories during the summer, but when things take a turn when his birthday party is ruined
-by a bloodline grimlike antagonist is after him. He and his friends are set on a journy to restore life on earth before they are to late
+Our main series is a surreal 2D/3D animated story about a young teenager whose birthday is coming up in a couple of months 
+He and his friends have fun journeys and make memories during the summer, but things take a turn when his birthday party is ruined
+by a bloodline grimlike antagonist who is after him. He and his friends are set on a journey to restore life on earth before they are too late
 
 ## Drunky Bunky (DB)
 
-Drunky Bunky is a RPG Retro game where you play as a trio of friends Donnie, Jeffly, and Nezy. They will embark on a journey that is yet to be made
-this game was made and thought about by the semi-popular FNaF-Laxter
+Drunky Bunky is an RPG Retro game where you play as a trio of friends, Donnie, Jeffly, and Nezy. They will embark on a journey that is yet to be made
+This game was made and thought about by the semi-popular FNaF-Laxter
 
 
 
@@ -43,19 +43,19 @@ this game was made and thought about by the semi-popular FNaF-Laxter
 # Tools We Use
 
 ## Godot Engine
-We use Godot engine to make games as its free and gives us tons of freedom as its open source
+We use the Godot engine to make games, as it's free and gives us tons of freedom, as it's open source
 
 ## Krita 
-We use Krita for artwork for games and art for our studio as its not complex and simple to use giving us efficent time to make a project or concept
+We use Krita for artwork for games and art for our studio, as it's not complex and simple to use, giving us efficient time to make a project or concept
 
 ## Blender 
-We use Blender for 3D animated films and games as well as rendering our work
+We use Blender for 3D animated films and games, as well as rendering our work
 
 ## Sound Trap & Audacity
 We use SoundTrap and Audacity for audio we use SoundTrap for our music production and Audacity for voicelining.
 
 ## Microsoft ClipChamp
-We use Microsoft ClipChamp compile our audio, songs and films together to make a entertaining episode or movie
+We use Microsoft ClipChamp to compile our audio, songs and films together to make an entertaining episode or movie
 
 ---
 
@@ -70,10 +70,10 @@ Role Name Notes
 ### Story Writer MasterofMillibars
   Story Writer, Music Developer
 ### Animator Yang
-  Story Writer, Animator, Artist, 3D Modler.
+  Story Writer, Animator, Artist, 3D Modeller.
   
 
-We build together, learn together, and help each other grow.
+We build together, learn together, and support one another's growth.
 
 
 ---
@@ -90,5 +90,3 @@ We build together, learn together, and help each other grow.
 We make things because we love the process — not for views, fame, or money.
 Our projects take time, care, and collaboration.
 If something we make reaches even one person, that’s worth it to us.
-
-> “Five rings — one team, one dream, and the cycle of creation that keeps us going.”
