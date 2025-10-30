@@ -65,12 +65,16 @@ Five Ring Studios is made up of friends and amazing people who want to tell stor
 
 Role Name Notes
 
-### Founder Dat_KatYT
+### Dat_KatYT
   Story writer, Github Studio README.md designer, Music developer (Uses Music Theory), 3D Animation, Game Developer, Publisher for content, Artist
-### Story Writer MasterofMillibars
+### MasterofMillibars
   Story Writer, Music Developer
-### Animator Yang
+### Yang
   Story Writer, Animator, Artist, 3D Modeller.
+### Kitchen Paper
+  Animatior, Artist, Story Writer
+### Colin
+  Animator, Artist, Coder, Story Writer
   
 
 We build together, learn together, and support one another's growth.
@@ -87,6 +91,6 @@ We build together, learn together, and support one another's growth.
 ---
 ## Why We Create
 
-We make things because we love the process — not for views, fame, or money.
+We make things because we love the process not for views, fame, or money.
 Our projects take time, care, and collaboration.
 If something we make reaches even one person, that’s worth it to us.
