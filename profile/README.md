@@ -65,7 +65,7 @@ Five Ring Studios is made up of friends and amazing people who want to tell stor
 
 Role Name Notes
 
-### Dat_KatYT
+### [Dat_KatYT]([url](https://github.com/Dat-Kat12))
   Story writer, Github Studio README.md designer, Music developer (Uses Music Theory), 3D Animation, Game Developer, Publisher for content, Artist
 ### MasterofMillibars
   Story Writer, Music Developer
