@@ -36,6 +36,10 @@ by a bloodline grimlike antagonist who is after him. He and his friends are set 
 Drunky Bunky is an RPG Retro game where you play as a trio of friends, Donnie, Jeffly, and Nezy. They will embark on a journey that is yet to be made
 This game was made and thought about by the semi-popular FNaF-Laxter
 
+## Detective Fuzz
+
+Detective Fuzz is a Indie project by Kitchen Paper
+
 
 
 ---
@@ -48,8 +52,9 @@ We use the Godot engine to make games, as it's free and gives us tons of freedom
 ## Krita 
 We use Krita for artwork for games and art for our studio, as it's not complex and simple to use, giving us efficient time to make a project or concept
 
-## Blender 
+## Blender and Maya
 We use Blender for 3D animated films and games, as well as rendering our work
+We also use Maya When possible as its for animated films and game animations.
 
 ## Sound Trap & Audacity
 We use SoundTrap and Audacity for audio we use SoundTrap for our music production and Audacity for voicelining.
