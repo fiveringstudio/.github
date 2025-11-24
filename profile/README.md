@@ -54,7 +54,7 @@ We use Krita for artwork for games and art for our studio, as it's not complex a
 
 ## Blender and Maya
 We use Blender for 3D animated films and games, as well as rendering our work
-We also use Maya When possible as its for animated films and game animations.
+<br>We also use Maya When possible as its for animated films and game animations.</br>
 
 ## Sound Trap & Audacity
 We use SoundTrap and Audacity for audio we use SoundTrap for our music production and Audacity for voicelining.
